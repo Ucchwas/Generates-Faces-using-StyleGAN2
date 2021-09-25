@@ -4,4 +4,4 @@ The two neural networks that make up a GAN are referred to as the generator and 
 
 Two adversaries (generator + discriminator) compete with each other. Over time, the generator gets better at generating images.
 
-In this project I tried to generate images using StyleGan2. 
+In this project I have generated images using StyleGan2. 
